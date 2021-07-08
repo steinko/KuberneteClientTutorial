@@ -1,0 +1,9 @@
+config:
+  ManagPods:masterVersion: "1.0"
+  ManagPods:nodeCount: "5"
+  ManagPods:nodeMachineType: n1-standard-2
+  ManagPods:password:
+    secure: AAABANMSA/clts8U15TczVV3KfEpY28xDOJePihtsnbKr/kNc10B6KcawQ==
+  gcp:project: springboot22
+  gcp:region: europe-north1
+  gcp:zone: europe-north1-a
